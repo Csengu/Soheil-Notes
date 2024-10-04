@@ -1,2 +1,1 @@
-# Notes
-theme: jekyll-theme-modernist 
+# Soheil's Notes
