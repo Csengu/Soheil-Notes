@@ -1,4 +1,4 @@
-# Soheil's Notes
+
 # Keyboard Shortcuts
 ## shortcuts I frequently use:
 ## - ctrl-C (copy)
