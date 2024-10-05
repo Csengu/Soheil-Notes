@@ -8,3 +8,8 @@
 ## - Win-D (show desktop)
 ## - Super-Hyper-Meta-F
 
+- `line\d`
+- `line\d+`
+- `line\d*`
+- `^line`
+- `line$`
